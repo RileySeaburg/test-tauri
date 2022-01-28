@@ -1,0 +1,19 @@
+{
+  "name": "test-tauri",
+  "version": "1.0.0",
+  "description": "A tauri test",
+  "main": "index.js",
+  "repository": "=",
+  "author": "Riley Seaburg",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "tauri": "tauri"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^1.0.0-beta.10"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^1.0.0-beta.8"
+  }
+}
